@@ -1,1 +1,1 @@
-This repositary describe the source code of the paper publised in DICTA conference titled "Enhancing Image Representation and Compression: An Innovative Nz-Nqer Framework With Block Truncation Quantum Coding". 
+This repositary describe the source code of the paper publised in DICTA conference titled "Enhancing Image Representation and Compression: An Innovative Nz-Nqer Framework With Block Truncation Quantum Coding". The URL lilnk for this article is  "https://ieeexplore.ieee.org/document/10410955".
